@@ -64,14 +64,14 @@ Mã lỗi dùng đúng một trong: `lr_swap`, `vis_flag`, `position`, `missing`
 
 | Ảnh | Người / mặt | Điểm | Mã lỗi | Ghi chú | Đã sửa? |
 |---|---|---|---|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|000000188804 |người  | | | |đã sửa |
+|000000343057 |người | | | |chưa sửa |
+|000000515309|người | | | | chưa sửa|
+|000000521817 |người | | | |chưa sửa |
+|000000542160 |người | | | |đã sửa |
+|face_146049 |mặt | | | |đã sửa |
+|face_505385 |mặt | | | |đã sửa |
+|face_145621 |mặt | | | |đã sửa |
 
 Tổng hợp số lỗi theo mã:
 
@@ -147,7 +147,7 @@ Nguồn ảnh: COCO val2017 / Wikimedia Commons.
 
 1. Lỗi bạn mắc nhiều nhất hôm nay, và cách bạn sẽ tránh ở dự án thật:
 
-   ...
+   Tôi chưa xác định được các điểm bằng mắt thường, việc cần tránh khi làm dự án thật là sẽ quan sát thật kỹ lưỡng trước khi đưa ra quyết định để phù hợp với bài toán cần giải quyết
 
 2. Một quy tắc bạn đề xuất thêm vào guideline (kèm ảnh ví dụ nếu có):
 
@@ -181,7 +181,7 @@ Kết quả `src/check_submission.py` cho `NguyenThaiDuong_bonus_persons.zip`:
 
 Ảnh không màu khó hơn ở điểm nào? Kính râm trên ảnh hồng ngoại có còn là `v = 1` không?
 
-...
+Ảnh không màu sẽ khó hơn ở điểm xác định các khớp trên cơ thể con người. Còn kính râm trên ảnh hồng ngoại vẫn là v = 1.
 
 ### B3 — Model so với nhãn của tôi (không tính điểm)
 

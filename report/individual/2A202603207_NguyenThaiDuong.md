@@ -52,9 +52,9 @@ Mỗi điểm bạn phân vân một dòng, nhất là phân vân giữa `v = 1`
 
 | Ảnh | Người / mặt | Điểm | Cờ đã chọn | Phân vân giữa | Lý do chọn |
 |---|---|---|---:|---|---|
-| | | | | | |
-| | | | | | |
-| | | | | | |
+|000000343057.jpg |người |mắt trái/phải; tai trái;phải |Q |cả 4 |em không biêt sau mũ là để bị khuất hay là mất |
+|000000311497.jpg |người |hông phải |O |Q và O | |
+|face_146049.jpg |mặt |8 điểm của cả 2 mắt | Q| | |
 
 ## 4. Bảng tự review (CP3)
 

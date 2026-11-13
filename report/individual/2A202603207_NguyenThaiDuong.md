@@ -12,7 +12,7 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 - Link repository:
 - Phiên bản CVAT (Help → About):
 - Máy: hệ điều hành ___ · RAM ___ GB · chạy CVAT chế độ đầy đủ / lite
-- Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có / không
+- Bộ ảnh (`src/exports/assignment.json` do `lab.py setup` tạo): có
 - Giờ bắt đầu:5h16
 - Giờ kết thúc:11h30
 
@@ -23,11 +23,11 @@ Dữ liệu: 12 ảnh người COCO val2017 (Lin et al., 2014) và 8 ảnh chân
 | `person` |skeleton |17 |có |có |19 |
 | `face` |skeleton |13 |có |có |13 |
 
-Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? Có / Không
+Mẫu `person` dựng theo người quay mặt về camera (các điểm `left_*` nằm bên phải khung mẫu)? Có
 
 Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bản CVAT này (một câu):
 
-...
+bấm vào điểm cần đổi cờ, bấm "Q" để occluded, bấm "O" để đánh outside
 
 ## 2. Số lượng đã gán và thời gian (CP1, CP2)
 
@@ -41,10 +41,10 @@ Cách đổi cờ `occluded` / `outside` cho **một điểm** trên phiên bả
 | `faces` | 8 | 8| — |0 |25p |
 
 - Số ảnh người đã xong ở mốc phút 105: ___ / 10
-- Thời gian thực tế (phút): CP1 ___ · CP2 ___ · CP3 ___
+- Thời gian thực tế (phút): CP1 _2h__ · CP2 _2h__ · CP3 _3h__
 - Ảnh tốn thời gian nhất là ảnh nào, vì sao?
 
-...
+ảnh người 000000542160.jpg vì ảnh đó có 3 người
 
 ## 3. Bảng ca khó (CP1, CP2)
 
